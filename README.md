@@ -1,9 +1,12 @@
 # 👋 Hi, tembokbaleko123
 
 <div align="center">
-  
+
+  <h1>
+    
   **Game Developer | Mobile App Developer | AI/ML Enthusiast**
   
+  </h1>
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muh-farid-hakim-721446336)
 
 </div>
