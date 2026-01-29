@@ -5,7 +5,6 @@
   **Game Developer | Mobile App Developer | AI/ML Enthusiast**
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muh-farid-hakim-721446336)
-  [![Profile Views](https://visitcount.itsvg.in/api?id=tembokbaleko123&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
