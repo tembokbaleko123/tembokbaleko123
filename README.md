@@ -2,11 +2,12 @@
 
 <div align="center">
 
-  <h1>
+  <h3>
     
   **Game Developer | Mobile App Developer | AI/ML Enthusiast**
   
-  </h1>
+  </h3>
+  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muh-farid-hakim-721446336)
 
 </div>
