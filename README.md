@@ -84,7 +84,9 @@ I'm a passionate developer focused on creating **intelligent and interactive exp
 ## 🏆 GitHub Trophies
 
 <div align="center">
+  
 ![](https://github-profile-trophy.vercel.app/?username=tembokbaleko123&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 </div>
 
 ---
